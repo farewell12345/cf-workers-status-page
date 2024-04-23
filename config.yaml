@@ -37,3 +37,8 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+  - id: umb-blog
+    name: The Umb Blog
+    url: 'https://umb.ink/'
+    method: GET
+    expectStatus: 200
